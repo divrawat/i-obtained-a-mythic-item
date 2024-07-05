@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] roun
 export const APP_NAME = 'I Obtained a Mythic Item';
 export const NavbarName = "I Obtained a Mythic Item";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. Aria, a determined adventurer whose quest leads her to discover a fabled artifact of immense power. As Aria navigates through perilous dungeons and confronts formidable foes, she unravels the mysteries surrounding the mythic item's origins and its profound significance. Alongside allies and facing adversaries, Aria's resolve is tested as she learns to wield the artifact responsibly, ultimately shaping her own legacy in the annals of legends.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. Aria, a determined adventurer whose quest leads her to discover a fabled artifact of immense power. As Aria navigates through perilous dungeons and confronts formidable foes, she unravels the mysteries surrounding the mythic item's origins and its profound significance. Alongside allies and facing adversaries, Aria's resolve is tested as she learns to wield the artifact responsibly, ultimately shaping her own legacy in the annals of legends.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
